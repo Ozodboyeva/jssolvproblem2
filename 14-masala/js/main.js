@@ -1,4 +1,4 @@
-let abc = 578;
+let abc = 123;
 
 c = abc % 10;
 b = Math.trunc((abc % 100) / 10);
